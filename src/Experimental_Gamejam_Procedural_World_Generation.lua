@@ -60,7 +60,7 @@ local function Return_Sorted_HeightArray_Till_MaxHeight(Maximum_Height)
 		table.insert(HeightArray, Randomized_Height)
 	end
 	
-	table.sort(HeightArray) -- Now we sort as we used randomized number to obtain slightly different block hieghts
+	table.sort(HeightArray) -- Now we sort as we used randomized number to obtain slightly different block heights
 	return HeightArray
 end
 
