@@ -6,14 +6,11 @@
 
 ![RobloxScreenShot20230227_012534497](https://github.com/Aizakkuz/Portfolio/assets/56370516/7a9a6973-ca67-4a7d-95de-88ba6ca60604)
 
-- Visually pleasing anime lightning ability.
+- Visually pleasing anime lightning ability. Lightning ability for a revamped game using an older-outdated lightning module but at the time it was new and extremely visually pleasing.
 
 **Video Here:** https://github.com/Aizakkuz/Portfolio/assets/56370516/97b9d09c-ba90-4982-8283-b6c7afac68a3
 
-Lightning ability for a revamped game using an older-outdated lightning module but at the time it was new and extremely visually pleasing.
-
-- Visually pleasing anime wind ability.
+- Visually pleasing anime wind ability. Apart of my game Project Shinigami, this was one of the other 30 abilities within the game at that time.
 
 **Video Here:** https://github.com/Aizakkuz/Portfolio/assets/56370516/d817d87d-d6bf-4fbb-adba-6c5b584deecf
 
-Apart of my game Project Shinigami, this was one of the other 30 abilities within the game at that time.
